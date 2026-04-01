@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @vvajpai
-- 👀 I’m interested in 
-- 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on web development 
+- 👋 Hi, I’m Vaibhav Vajpai
+- 👀 I’m interested in  
+- 🌱 I’m currently learning Data Engineering
+- 💞️ I’m looking to collaborate on Data Analysis & Engineering 
 - 📫 How to reach me ...
-Twitter - vvajpai 
+  Gmail: vaibhavvajpai049@gmail.com
 Instagram - v_vajpai
 <!---
 vvajpai/vvajpai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
