@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vaibhav Vajpai
-- 👀 I’m interested in  
+- 👀 I’m interested in playing with Data
 - 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on Data Analysis & Engineering 
 - 📫 How to reach me ...
